@@ -8,7 +8,7 @@ A 2D platformer game focusing on the story of a young girl in red on her way to 
 ## 🚀 Gameplay Features
 - Interactive map exploration
 - Coin collection and health system
-- Simple enemy combat and enemy ai player detection
+- Simple enemy combat and enemy AI player detection
 - Moving platforms
 - Full gameplay with audio
 
