@@ -14,7 +14,7 @@ A 2D platformer game focusing on the story of a young girl in red on her way to 
 
 
 
-## 🎥 Gameplay Previews
+## 🎥 Game Previews
 
 ### Main Menu
 
